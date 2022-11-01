@@ -3,7 +3,7 @@ title:
 type: major
 ---
 
-This release introduces
+Essa atualização introduz
 
 **Features:**
 
