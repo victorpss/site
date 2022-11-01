@@ -29,3 +29,7 @@ Entre eles, podemos destacar:
 + [CAFe (Comunidade Acadêmica Federada)](https://intranet.ufrj.br/portal/cafe-2/): acesso, pelo VPN da UFRJ, ao Portal Capes (livros e publicações) e muitos outros sistemas de publicações acadêmicas. Também dá acesso ao [FileSender@RNP](https://filesender.rnp.br/) (sistema seguro para troca de arquivos grandes)
 
 + [Pacote Office (online)](https://www.microsoft.com/pt-br/education/products/office): aplicativos do pacote Office acessados via web.
+
+---
+
+*Editado em: 01 de novembro de 2022*
