@@ -2,43 +2,28 @@
 title: Sobre o Projeto
 ---
 
-TODO: Escrever 
+### O Projeto
+
+O **Guia do Calouro** se propõe a auxiliar os discentes recém ingressos no Bacharelado em Ciência da Computação (Universidade Federal do Rio de Janeiro) na transição da *vida escolar* para a *vida universitária*. 
+É uma plataforma criada por alunos e para alunos.
+Não se preocupe, esse momento pode ser confuso, mas todos nós já passamos por isso e somos a prova viva de que é possível sobreviver!
+
+Nosso objetivo aqui é te ajudar com dicas valiosas sobre como aproveitar a universidade da melhor forma possível, uma vez que são tantas novidades que, às vezes, coisas interessantes acabam se perdendo. 
+Não queremos isso.
+
+Nosso foco não é a parte acadêmica: você vai se encontrar academicamente de forma natural com o passar do tempo. 
+Queremos simplesmente dar os *bizus* para que você não passe pelos perrengues que nós já passamos.
+
+
+### Como Podemos Ajudar?
+
+Aqui, você vai encontrar dicas e informações sobre a universidade e toda a cojuntura acadêmica, pessoal e social que a cerca.
+
+
+### Quem Somos?
+
+TODO.
 
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
-
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
-
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
-
-### Getting Started
-
-Getting a message sent is quick and easy with ChatApp:
-
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
-
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
-
-### Features
-
-Explore more of ChatApp by reading about our features:
-
-#### Media
-
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
-
-### Email Institucionalll
+> O projeto Guia do Calouro foi criado como parte da avaliação da disciplina de Habilidades Sociais Para o Trabalho (ICP145).
