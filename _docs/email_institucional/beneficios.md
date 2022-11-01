@@ -1,8 +1,12 @@
 ---
 title: Benefícios
-category: Email Insitucional
+category: Email Institucional
 order: 2
 ---
+
+Parabéns, você é um estudante da Universidade Federal do Rio de Janeiro -- e isso tem suas vantagens.
+O email institucional dá direito a uma série de benefícios. 
+Entre eles, podemos destacar:
 
 + [Coursera](https://www.coursera.org/for-university-and-college-students): um curso grátis por ano e projetos guiados ilimitados.
 
@@ -14,20 +18,14 @@ order: 2
 
 + [Tableau](https://www.tableau.com/pt-br/academic/students): é uma plataforma de análise visual de bancos de dados, utilizada para fazer dashboards.
 
-+ CamScanner: ganha ferramentas pagas.
++ [CamScanner](https://camscanner.medium.com/camscanner-now-provides-free-advanced-features-to-students-and-educators-29c5263d2b93): 1GB de armazenamento em núvem; extrair o texto de 100 imagens por mês; aplicativo sem anúncios etc..
 
-+ Notion: versão para estudantes grátis.
++ [Notion](https://www.notion.so/): o plano Personal Pro é grátis enquanto você é estudante.
 
-+ Spotify: desconto de 50%.
++ [Spotify](https://www.spotify.com/br/student/): um mês de Premium grátis, depois R$ 9,90/mês.
 
-+ EduRoam: rede mundial de wifi livre para estudantes. Baixar o aplicativo para auxiliar na conexão com o wifi `eduroam`.
++ [EduRoam](https://eduroam.org/): rede mundial de wifi livre e seguro para estudantes. Baixar o aplicativo para auxiliar na conexão com o wifi `eduroam`, disponível por todo o globo (inclusive na UFRJ). Mais detalhes na [intranet](https://intranet.ufrj.br/portal/eduroam-2/).
 
-+ CAFe: acesso, pelo VPN da UFRJ, ao Portal Capes (livros e publicações) e muitos outros sistemas de publicações acadêmicas. Também dá acesso ao [FileSender@RNP](https://filesender.rnp.br/) (sistema seguro para troca de arquivos grandes)
++ [CAFe (Comunidade Acadêmica Federada)](https://intranet.ufrj.br/portal/cafe-2/): acesso, pelo VPN da UFRJ, ao Portal Capes (livros e publicações) e muitos outros sistemas de publicações acadêmicas. Também dá acesso ao [FileSender@RNP](https://filesender.rnp.br/) (sistema seguro para troca de arquivos grandes)
 
-+ Camtasia 9: Precisa editar vídeo, gravar tela, colocar legenda de forma bem intuitiva? Tem aqui o tutorial pra conseguir o Camtasia 9 com tudo liberado de graça: <https://www.youtube.com/watch?v=AysDdJ7naE0>
-
-+ GraphPad 8: Precisa de gráficos mais elaborados dos que o do excel e com uma carinha mais profissional? Toma tutorial de como baixar o GraphPad 8 prism tbem com tudo liberado de graça: <https://www.youtube.com/watch?v=Ys-z1tHU9-Q>
-
-+ [Sci-Hub](https://sci-hub.se/)✨Bônus: quer ler um artigo mas ele é pago? Joga aqui o link ou doi dele👉✨
-
-+ [Office](https://www.microsoft.com/pt-br/education/products/office): Isso inclui Word, Excel, Power Point, Teams, OneNote, OneDrive, Sharepoints, dentre outras ferramentas mais modernas desenvolvidas pela Microsoft, como Power Automate, Power Apps e o INCRÍVEL Planner. Você ainda pode utilizar os serviços online ou fazer o download da versão desktop (que fica no seu computador, celular, tablet).
++ [Pacote Office (online)](https://www.microsoft.com/pt-br/education/products/office): aplicativos do pacote Office acessados via web.

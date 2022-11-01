@@ -1,18 +1,20 @@
 ---
 title: Criando o E-mail
-category: Email Insitucional
+category: Email Institucional
 order: 1
 ---
 
 # @dcc.ufrj.br
 
-O email institucional é criado pelo cadastro no site <https://dcc.ufrj.br/usuario/cadastro-aluno-bcc> e é utilizado como se fosse um gmail comum, no ambiente do Instituto de Computação UFRJ.
+O email institucional é criado pelo cadastro no [site do Instituto de Computação](https://dcc.ufrj.br/usuario/cadastro-aluno-bcc) seguindo as instruções da página e é utilizado como se fosse um gmail comum, no ambiente do Instituto de Computação UFRJ.
 
 # @ufrj.br
 
-Primeiro, você precisa conferir se já tem seu email acadêmico/corporativo. Para isso, entre no site da intranet (https://intranet.ufrj.br/), clique em "Entrar na intranet", e insira o Login e Senha que você usa pra acessar o Portal Aluno (o mesmo que você utiliza para montar a sua grade).
+O email `@ufrj.br`, na verdade, é apenas um *redirecionamento* (ou um ponteiro) para seu email particular. Observe o que diz a intranet da UFRJ:
 
-Feito isso, no menu "Navegação", situado no lado direito da página, clique em "Email @ufrj.br". Na página que abrir, preencha o primeiro campo com o seu nome de usuário, que será o nome que vai aparecer antes do "@ufrj.br". O meu, por exemplo, é aesteves. Por isso, meu email acadêmico é aesteves@ufrj.br.
+> Através deste serviço você pode definir um nome e redirecionar todas as mensagens destinadas a ele para seu endereço eletrônico particular. Você divulga um e-mail da UFRJ e recebe as mensagens normalmente através do seu provedor. E se você mudar de provedor é só mudar o redirecionamento que o endereço divulgado continuará funcionando.
 
-Para completar, no campo abaixo, insira o endereço de email para onde serão enviados os email remetidos ao seu @ufrj.br. Isso é necessário porque a UFRJ não tem uma plataforma de emails própria. Por isso, o @ufrj.br fica vinculado ao seu gmail ou hotmail, por exemplo, lugar em que aparece os emails enviados para seu endereço corporativo.
-
+Para criar o redirecionamento, é preciso ter um email qualquer cadastrado no SIGA.
+Suporemos que meu email `guiadocalouro@gmail.com` está devidamente cadastrado no SIGA.
+Para criar um redirecionamento, basta acessar a [intranet da UFRJ](https://intranet.ufrj.br/portal/redirecionamento-email-ufrj/) e escolher um nome que ainda não esteja sendo utilizado por outra pessoa.
+Por exemplo, `guia`. Então, meu email no domínio da UFRJ será `guia@ufrj.br`, que redirecionará os emails recebidos para `guiadocalouro@gmail`.
