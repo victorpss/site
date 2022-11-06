@@ -5,6 +5,7 @@ order: 1
 ---
 
 <TEXTO>
+  O **C**entro Acadêmico de Informática é uma entidade que representa todos os estudantes do curso de Ciência da Computação. Por exemplo, ele deve manter com seus estudantes um canal direto e permanente de contato, realizando discussões, debates, reuniões e festas da maneira mais democrática e aberta possível, para que todos possam participar.
 
 ---
 
