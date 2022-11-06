@@ -10,4 +10,4 @@ order: 2
 
 ---
 
-*Editado em: <dia> de <mês> de 2022*
+*Editado em: 06 de novembro de 2022*
